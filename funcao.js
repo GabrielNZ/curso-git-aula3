@@ -14,3 +14,8 @@ const minhaFuncaoMultiplicacao = (a, b) => {
     return a * b;
 };
  console.log(minhaFuncaoMultiplicacao(5, 10)); // Output: 50
+
+ const minhaFuncaoDivisao = (a, b) => {
+    return a / b;
+};
+ console.log(minhaFuncaoDivisao(10, 5)); // Output: 2
