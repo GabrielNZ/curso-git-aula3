@@ -21,3 +21,5 @@ const minhaFuncaoMultiplicacao = (a, b) => {
  console.log(minhaFuncaoDivisao(10, 5)); // Output: 2
 
  //ADICIONAR FEATURE NA BRANCH
+
+ //FEATURE NOVA
