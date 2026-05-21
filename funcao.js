@@ -18,4 +18,12 @@ const minhaFuncaoMultiplicacao = (a, b) => {
  const minhaFuncaoDivisao = (a, b) => {
     return a / b;
 };
+<<<<<<< HEAD
  console.log(minhaFuncaoDivisao(10, 5)); // Output: 2
+=======
+ console.log(minhaFuncaoDivisao(10, 5)); // Output: 2
+
+ //ADICIONAR FEATURE NA BRANCH
+
+ //FEATURE NOVA
+>>>>>>> feature/calculadora
